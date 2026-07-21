@@ -18,7 +18,7 @@
 - WordPress 6.5+
 - PHP 7.4+
 - WooCommerce 9.6+
-- WooCommerce PayPal Payments 3.1.0+（已按 4.1.1 验证）
+- WooCommerce PayPal Payments 3.1.0+（已按 4.1.1 验证）https://woocommerce.com/products/woocommerce-paypal-payments/
 - 店小秘erp接口（api或者插件都可以）
 ## 安装
 
